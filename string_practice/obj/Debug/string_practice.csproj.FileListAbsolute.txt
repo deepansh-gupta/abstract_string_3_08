@@ -1,0 +1,7 @@
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\string_practice\string_practice\obj\Debug\string_practice.csprojAssemblyReference.cache
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\string_practice\string_practice\obj\Debug\string_practice.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\string_practice\string_practice\bin\Debug\string_practice.exe.config
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\string_practice\string_practice\bin\Debug\string_practice.exe
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\string_practice\string_practice\bin\Debug\string_practice.pdb
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\string_practice\string_practice\obj\Debug\string_practice.exe
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\string_practice\string_practice\obj\Debug\string_practice.pdb
