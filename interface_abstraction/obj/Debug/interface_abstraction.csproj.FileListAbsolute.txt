@@ -1,0 +1,7 @@
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\interface_abstraction\interface_abstraction\obj\Debug\interface_abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\interface_abstraction\interface_abstraction\bin\Debug\interface_abstraction.exe.config
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\interface_abstraction\interface_abstraction\bin\Debug\interface_abstraction.exe
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\interface_abstraction\interface_abstraction\bin\Debug\interface_abstraction.pdb
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\interface_abstraction\interface_abstraction\obj\Debug\interface_abstraction.exe
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\interface_abstraction\interface_abstraction\obj\Debug\interface_abstraction.pdb
+C:\Users\Pramod Kumar Gupta\Desktop\webp\Csharp_practice\interface_abstraction\interface_abstraction\obj\Debug\interface_abstraction.csprojAssemblyReference.cache
